@@ -21,3 +21,4 @@ This repo is used to manage &amp; store my week tech reading materials which is 
 ####[Introducing ExpandableRecyclerView](https://robots.thoughtbot.com/introducing-expandablerecyclerview?utm_source=Android+Weekly&utm_campaign=1096591845-Android_Weekly_221&utm_medium=email&utm_term=0_4eb677ad19-1096591845-337910269)
 ####[Creating Custom Annotations in Android](https://medium.freecodecamp.com/creating-custom-annotations-in-android-a855c5b43ed9#.ixduckpdx)
 ####[Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide?utm_source=Android+Weekly&utm_campaign=1096591845-Android_Weekly_221&utm_medium=email&utm_term=0_4eb677ad19-1096591845-337910269)
+####[Creating Highly Modular Android Apps *Fixing the broken dream of the single responsibility principle*](https://medium.com/stories-from-eyeem/creating-highly-modular-android-apps-933271fbdb7d#.e2v8ugoq5)
