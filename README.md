@@ -22,3 +22,10 @@ This repo is used to manage &amp; store my week tech reading materials which is 
 ####[Creating Custom Annotations in Android](https://medium.freecodecamp.com/creating-custom-annotations-in-android-a855c5b43ed9#.ixduckpdx)
 ####[Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide?utm_source=Android+Weekly&utm_campaign=1096591845-Android_Weekly_221&utm_medium=email&utm_term=0_4eb677ad19-1096591845-337910269)
 ####[Creating Highly Modular Android Apps *Fixing the broken dream of the single responsibility principle*](https://medium.com/stories-from-eyeem/creating-highly-modular-android-apps-933271fbdb7d#.e2v8ugoq5)
+
+
+###2016.9.18~2016.9.25
+####[Android热更新方案Robust](http://tech.meituan.com/android_robust.html?utm_source=tuicool&utm_medium=referral)
+####[Android WebView：性能优化不得不说的事](http://motalks.cn/2016/09/11/Android-WebView-JavaScript-3/?utm_source=tuicool&utm_medium=referral)
+####[领略千变万化的Android Drawable （一）](http://android.jobbole.com/84704/)
+####[领略千变万化的Android Drawable （二）](http://android.jobbole.com/84705/)
