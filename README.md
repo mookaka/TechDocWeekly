@@ -29,3 +29,8 @@ This repo is used to manage &amp; store my week tech reading materials which is 
 ####[Android WebView：性能优化不得不说的事](http://motalks.cn/2016/09/11/Android-WebView-JavaScript-3/?utm_source=tuicool&utm_medium=referral)
 ####[领略千变万化的Android Drawable （一）](http://android.jobbole.com/84704/)
 ####[领略千变万化的Android Drawable （二）](http://android.jobbole.com/84705/)
+####[Synchronously Animating Toolbar, TabLayout, FloatingActionButton and StatusBar Background Colors on Android](https://kylewbanks.com/blog/animating-toolbar-tablayout-floatingactionbutton-and-statusbar-background-color-on-android?utm_source=Android+Weekly&utm_campaign=88bd50a57f-Android_Weekly_223&utm_medium=email&utm_term=0_4eb677ad19-88bd50a57f-337910269)
+####[Low Coupling With Rx and Dagger 2 in Android](http://www.ottodroid.net/?p=479&utm_source=Android+Weekly&utm_campaign=88bd50a57f-Android_Weekly_223&utm_medium=email&utm_term=0_4eb677ad19-88bd50a57f-337910269)
+####[Eight Ways Your Android App Can STOP Leaking Memory](http://blog.nimbledroid.com/2016/09/06/stop-memory-leaks.html?utm_source=Android+Weekly&utm_campaign=88bd50a57f-Android_Weekly_223&utm_medium=email&utm_term=0_4eb677ad19-88bd50a57f-337910269)
+####[Let the view handle the lifecycle in MVP by using RxJava](https://medium.com/@ferhatparmak/let-the-view-handle-the-lifecycle-in-mvp-by-using-rxjava-694d67923871#.p1az4a3t0)
+####[Android Amazing Open Source Apps](https://medium.com/@amitshekhar/android-amazing-open-source-apps-e44f520593cc#.eq419zcih)
