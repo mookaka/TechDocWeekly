@@ -40,3 +40,7 @@ This repo is used to manage &amp; store my week tech reading materials which is 
 ####[Let the view handle the lifecycle in MVP by using RxJava](https://medium.com/@ferhatparmak/let-the-view-handle-the-lifecycle-in-mvp-by-using-rxjava-694d67923871#.p1az4a3t0)
 ####[Android Amazing Open Source Apps](https://medium.com/@amitshekhar/android-amazing-open-source-apps-e44f520593cc#.eq419zcih)
 ####[Visual Studio Code 使用指南完全体](http://i5ting.github.io/vsc/)
+
+
+###2016.9.26~2016.9.30
+####[Crunching RxAndroid **A step-by-step tutorial about Reactive Programming on Android**](https://medium.com/crunching-rxandroid/latest)
